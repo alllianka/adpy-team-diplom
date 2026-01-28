@@ -1,6 +1,4 @@
-.test
 .idea/
+.venv/
 __pycache__/
 .env
-.idea
-__pycache__
